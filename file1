@@ -1,0 +1,4 @@
+i love devops
+ls /home |grep s8benjamin
+cat /etc/passwd
+cat /etc/shadow
